@@ -1,5 +1,7 @@
 # dsh-literature-search
 
+[English](README.en.md) · 中文
+
 给模型加一个 `literature_search` 工具：一次结构化调用完成文献检索（OpenAlex 按被引排序 + arXiv 按相关度），不必先读技能正文再跑 shell 命令。
 
 ## 装
