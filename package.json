@@ -1,6 +1,6 @@
 {
     "name": "dsh-literature-search",
-    "description": "Model-callable literature_search tool for DeepSeek Harness: wraps <工具目录>\\paper-search.py (OpenAlex cited-sort + arXiv relevance) so the agent searches literature with one structured tool call instead of reading a skill body and running a shell command.",
+    "description": "Model-callable literature_search tool for DeepSeek Harness: wraps the paper-search.py script (path from env DSH_PAPER_SEARCH_SCRIPT, default ~/Research-Tools/paper-search.py; OpenAlex cited-sort + arXiv relevance) so the agent searches literature with one structured tool call instead of reading a skill body and running a shell command.",
     "version": "0.1.0",
     "private": false,
     "type": "module",
@@ -24,7 +24,7 @@
     ],
     "peerDependencies": {
         "@deepseek-ai/cordis": "^4.0.1",
-        "@deepseek-ai/dsh-tools": "^0.1.0-rc.6 || ^0.1.5-rc.2"
+        "@deepseek-ai/dsh-tools": "^0.1.0-rc.6"
     },
     "dsh": {
         "bundle": {
