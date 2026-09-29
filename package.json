@@ -36,8 +36,8 @@
         "type": "git",
         "url": "git+https://github.com/Ln1m/dsh-literature-search.git"
     },
-    "homepage": "https://github.com/Ln1m/dsh-literature-search#readme",
+    "homepage": "https://github.com/Ln1m/dsh-tool-literature#readme",
     "bugs": {
-        "url": "https://github.com/Ln1m/dsh-literature-search/issues"
+        "url": "https://github.com/Ln1m/dsh-tool-literature/issues"
     }
 }
