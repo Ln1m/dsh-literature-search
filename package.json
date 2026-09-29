@@ -34,7 +34,7 @@
     "author": "Ln1m (https://github.com/Ln1m)",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Ln1m/dsh-literature-search.git"
+        "url": "git+https://github.com/Ln1m/dsh-tool-literature.git"
     },
     "homepage": "https://github.com/Ln1m/dsh-tool-literature#readme",
     "bugs": {
